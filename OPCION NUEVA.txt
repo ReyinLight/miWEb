@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 opcion diferente
+=======
+Se ha programado una opcion
+se le agregaron mas opciones
+>>>>>>> nueva_edicion
